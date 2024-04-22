@@ -2,4 +2,4 @@
 
 does this work as html?
 
-a linkt to a page [page-one](./page-one)
+a linkt to a page [page-one](./page-one.md)
